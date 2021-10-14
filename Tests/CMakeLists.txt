@@ -9,7 +9,8 @@ add_executable(QEngClientUnitTests
 
 target_link_libraries(QEngClientUnitTests PRIVATE
     GTest::gtest
-    GTest::gmock
+    #GTest::gmock
+    #GTest::gmock_main
     GTest::gtest_main
 )
 
