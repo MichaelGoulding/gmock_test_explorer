@@ -36,7 +36,6 @@
       "cacheVariables": {
         "CMAKE_BUILD_TYPE": "Debug",
         "CMAKE_RUNTIME_OUTPUT_DIRECTORY": "${sourceDir}/bin/chk/AMD64/",
-        "QTEST_DATA_DIR": "${sourceDir}/bin/chk/AMD64/TestData"
       }
     },
     {
@@ -48,9 +47,7 @@
         "CMAKE_BUILD_TYPE": "RelWithDebInfo",
         "CMAKE_INTERPROCEDURAL_OPTIMIZATION": true,
         "CMAKE_RUNTIME_OUTPUT_DIRECTORY": "${sourceDir}/bin/fre/AMD64/",
-        "QTEST_DATA_DIR": "${sourceDir}/bin/fre/AMD64/TestData"
       }
-    }
     }
   ],
   "buildPresets": [
