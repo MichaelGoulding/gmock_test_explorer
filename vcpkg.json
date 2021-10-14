@@ -1,0 +1,14 @@
+{
+  "name": "repro-of-bug",
+  "version-string": "0.1",
+  "dependencies": [
+    "gtest"
+  ],
+  "builtin-baseline": "193880f0a8d9738a62142dd49aab19069b1ff8d6",
+  "overrides": [
+    {
+      "name": "gtest",
+      "version-date": "2021-10-05"
+    }
+  ]
+}

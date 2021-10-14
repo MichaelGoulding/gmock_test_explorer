@@ -1,0 +1,8 @@
+{
+  "default": {
+    "gtest": {
+      "baseline": "2021-10-05",
+      "port-version": 0
+    }
+  }
+}
